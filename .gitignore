@@ -1,2 +1,3 @@
 data/
 training_checkpoints/
+siamesemodel.h5
